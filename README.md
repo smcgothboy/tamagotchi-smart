@@ -1,2 +1,2 @@
-# tamogotchi-smart
-An Augmented Reality Tamogotchi Application
+# tamagotchi-smart
+An Augmented Reality Tamagotchi Application
